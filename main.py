@@ -1,13 +1,1 @@
-print("hello world")
-
-print("nochmal hello world") 
-
-print("nochmal hello world") 
-
-print("nochmal hello world") 
-
-print("nochmal hello world") 
-
-print("nochmal hello world") 
-
-print("nochmal hello world") 
+print("nun der start")
